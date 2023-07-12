@@ -5,5 +5,9 @@
   "description": "Libraries and configs to use when starting a new project",
   "main": "index.js",
   "repository": "https://github.com/Sergih28/project-init",
-  "author": "Sergi <Sergih28@users.noreply.github.com>"
+  "author": "Sergi <Sergih28@users.noreply.github.com>",
+  "devDependencies": {
+    "@commitlint/cli": "17.6.6",
+    "@commitlint/config-conventional": "17.6.6"
+  }
 }
