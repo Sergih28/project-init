@@ -1,0 +1,9 @@
+{
+  "name": "project-init",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Libraries and configs to use when starting a new project",
+  "main": "index.js",
+  "repository": "https://github.com/Sergih28/project-init",
+  "author": "Sergi <Sergih28@users.noreply.github.com>"
+}
