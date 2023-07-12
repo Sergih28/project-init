@@ -8,6 +8,10 @@
   "author": "Sergi <Sergih28@users.noreply.github.com>",
   "devDependencies": {
     "@commitlint/cli": "17.6.6",
-    "@commitlint/config-conventional": "17.6.6"
+    "@commitlint/config-conventional": "17.6.6",
+    "husky": "8.0.3"
+  },
+  "scripts": {
+    "prepare": "husky install"
   }
 }
